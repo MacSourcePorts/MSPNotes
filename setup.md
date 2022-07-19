@@ -44,7 +44,7 @@ arch --x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homeb
 ```
 
 
-Then make an alias to be able to fire off the Intel version easily. I go with the alias `ibrew` to tell the differences (the "i" is for Intel)
+Then make an alias to be able to fire off the Intel version easily. I go with the alias `ibrew` to tell the differences (the "i" is for Intel). Edit `~/.zshrc` in `vi` to include:
 
 ```
 alias ibrew='arch --x86_64 /usr/local/Homebrew/bin/brew'
@@ -56,10 +56,10 @@ The first install command for Homebrew above will install the Intel version, but
 
 ## Install Homebrew dependencies
 
-Just the one so far
+These are the ones we need in several places
 
 ```
-brew install dylibbundler
+brew install dylibbundler pkg-config
 ```
 
 ## Clone MSPScripts
