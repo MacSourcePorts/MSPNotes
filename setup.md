@@ -59,7 +59,7 @@ The first install command for Homebrew above will install the Intel version, but
 These are the ones we need in several places
 
 ```
-brew install dylibbundler pkg-config
+brew install cmake dylibbundler pkg-config
 ```
 
 ## Clone MSPScripts
