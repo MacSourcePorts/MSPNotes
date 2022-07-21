@@ -9,6 +9,7 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [DevilutionX](DevilutionX.md) (Diablo)
 * [dhewm3](dhewm3.md) (DOOM 3)
 * [GemRB](GemRB.md) (Baldur's Gate, Baldur's Gate II, Icewind Dale)
+* [ioquake3](ioquake3.md) (Quake III: Arena)
 * [OpenTyrian](OpenTyrian.md) (Tyrian)
 * [OpenTyrian2000](OpenTyrian2000.md) (Tyrian 2000)
 * [The Ur-Quan Masters](uqm.md) (Star Control II)
