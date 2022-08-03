@@ -10,6 +10,9 @@ GitHub: https://github.com/OpenRCT2/OpenRCT2
 MSP GitHub: https://github.com/MacSourcePorts/OpenRCT2
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port does make a Mac build but it's Intel-only and unsigned
+
 ### Build System: 
 Cmake
 

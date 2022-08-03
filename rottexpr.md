@@ -10,6 +10,9 @@ GitHub: https://github.com/LTCHIPS/rottexpr
 MSP GitHub: https://github.com/MacSourcePorts/rottexpr
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port did not offer Mac builds at all.
+
 ### Build System: 
 Make
 

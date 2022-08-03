@@ -10,6 +10,9 @@ BitBucket: https://bitbucket.org/ecwolf/ecwolf
 MSP GitHub: https://bitbucket.org/macsourceports/ecwolf/ / https://github.com/MacSourcePorts/ECWolf
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This port does make signed and notarized releases but not of Apple Silicon. Though they do still build for PowerPC which is neat. 
+
 ### Build System: 
 Cmake
 

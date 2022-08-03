@@ -10,6 +10,9 @@ GitHub: https://github.com/Interrupt/systemshock
 MSP GitHub: https://github.com/MacSourcePorts/systemshock
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This port didn't offer a Mac app bundle.
+
 ### Build System: 
 Cmake
 

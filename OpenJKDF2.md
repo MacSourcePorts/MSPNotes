@@ -10,6 +10,9 @@ GitHub: https://github.com/shinyquagsire23/OpenJKDF2
 MSP GitHub: https://github.com/MacSourcePorts/OpenJKDF2
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This port's author requested it. 
+
 ### Build System: 
 Cmake
 

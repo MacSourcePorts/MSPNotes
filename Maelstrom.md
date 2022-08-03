@@ -10,6 +10,9 @@ GitHub: https://www.libsdl.org/projects/Maelstrom/src/Maelstrom-3.0.7.tar.gz
 MSP GitHub: https://github.com/MacSourcePorts/Maelstrom
 
 #
+### Why is Mac Source Ports doing a build of this port?
+It was a request. The original does sign and notarize but only for Intel.
+
 ### Build System: 
 Make
 

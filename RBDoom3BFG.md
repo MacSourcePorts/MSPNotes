@@ -10,6 +10,9 @@ GitHub: https://github.com/RobertBeckebans/RBDOOM-3-BFG
 MSP GitHub: https://github.com/MacSourcePorts/RBDOOM-3-BFG
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port did not offer Mac builds at all.
+
 ### Build System: 
 Cmake
 

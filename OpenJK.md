@@ -10,6 +10,9 @@ GitHub: https://github.com/JACoders/OpenJK
 MSP GitHub: https://github.com/MacSourcePorts/OpenJK
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This port, or its users at least, requested it. 
+
 ### Build System: 
 Cmake
 

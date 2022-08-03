@@ -10,6 +10,9 @@ GitHub: https://github.com/diasurgical/devilutionX
 MSP GitHub: https://github.com/MacSourcePorts/devilutionX
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port does make a Mac build but it's Intel-only and unsigned. They're interested in linking to our builds for Apple Silicon/Universal 2 if we can get the process set up for tagged releases.
+
 ### Build System: 
 Cmake
 

@@ -10,6 +10,9 @@ GitHub: https://github.com/mvdevs/jk2mv / https://github.com/mvdevs/mvsdk
 MSP GitHub: https://github.com/MacSourcePorts/jk2mv / https://github.com/MacSourcePorts/mvsdk
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This port (or at least users of it) requested it. 
+
 ### Build System: 
 Cmake
 

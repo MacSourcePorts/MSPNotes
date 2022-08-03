@@ -10,6 +10,9 @@ GitHub: http://sc2.sourceforge.net/downloads.php
 MSP GitHub: https://github.com/MacSourcePorts/uqm
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port did not offer Mac builds at all.
+
 ### Build System: 
 Proprietary
 

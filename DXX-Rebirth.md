@@ -10,6 +10,9 @@ GitHub: https://github.com/dxx-rebirth/dxx-rebirth
 MSP GitHub: https://github.com/MacSourcePorts/dxx-rebirth
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This project does not release official Mac builds at all.
+
 ### Build System: 
 SConstruct (scons)
 

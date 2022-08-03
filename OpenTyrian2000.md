@@ -10,6 +10,9 @@ GitHub: https://github.com/opentyrian/opentyrian2000
 MSP GitHub: https://github.com/MacSourcePorts/opentyrian2000
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port did not offer Mac builds at all.
+
 ### Build System: 
 Make
 

@@ -10,6 +10,9 @@ GitHub: https://github.com/gemrb/gemrb
 MSP GitHub: https://github.com/MacSourcePorts/gemrb
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port does make a Mac build but it's Intel-only and unsigned
+
 ### Build System: 
 Cmake
 

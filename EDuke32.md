@@ -10,6 +10,9 @@ GitHub: https://voidpoint.io/terminx/eduke32
 MSP GitHub: https://github.com/MacSourcePorts/eduke32
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port did not offer Mac builds at all.
+
 ### Build System: 
 Make
 

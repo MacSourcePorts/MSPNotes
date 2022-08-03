@@ -3,13 +3,16 @@
 
 Game(s): *Caesar III*
 
-Homepage: http://www.homepage.com
+Homepage: https://github.com/Keriew/augustus
 
 GitHub: https://github.com/Keriew/augustus
 
 MSP GitHub: https://github.com/MacSourcePorts/augustus
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port does make a Mac build but it's Intel-only and unsigned
+
 ### Build System: 
 Cmake
 

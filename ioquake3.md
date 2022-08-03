@@ -10,6 +10,9 @@ GitHub: https://github.com/ioquake/ioq3
 MSP GitHub: https://github.com/MacSourcePorts/ioq3
 
 #
+### Why is Mac Source Ports doing a build of this port?
+This is the one that basically started the project (MSP)
+
 ### Build System: 
 Make
 
