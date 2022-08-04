@@ -37,3 +37,16 @@ The build script will make a full packaged app bundle including the game data.
 This port is straightforward, just have the dependencies and you'll be able to fire off the makefile no issues.
 
 Note that this is a different project from [OpenTyrian2000](OpenTyrian2000.md). OpenTyrian runs version *Tyrian* (up to 2.1), *OpenTyrian2000* runs *Tyrian 2000* (which is *Tyrian* at version 3.0 with a new episode and a new name)
+
+### MSP Fork differences:
+```
+.gitignore
+Makefile
+macos/tyrian.icns
+macsourceports_universal2.sh
+src/file.c
+src/msputils.h
+src/msputils.m
+```
+
+Changes are minimal but partially required to find the info in the bundle. This might be a good candidate to stay as a fork.

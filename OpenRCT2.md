@@ -30,3 +30,10 @@ Asks for data on first run
 This one's simple enough, though I do notice that it apparently has its own service to check for updates and then prompts the user to go to their download page. Probably a good incentive to keep up with the latest code more often. Their build is Universal 2 but not signed/notarized. 
 
 Could also just modify the code to send them to MSP but I dunno if that's a dick move or not. 
+
+### MSP Fork differences:
+```
+.gitignore
+OpenRCT2.entitlements
+macsourceports_universal2.sh
+```

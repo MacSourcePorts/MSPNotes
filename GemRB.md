@@ -37,3 +37,14 @@ In any event, I guess `codesign --deep` only code signs executables and `.dylib`
 This source port uses the `com.apple.security.cs.disable-library-validation` `com.apple.security.files.user-selected.read-write` entitlements
 
 This source port specifies the Python paths as cmake arguments. 
+
+### MSP Fork differences:
+```
+.gitignore
+CMakeLists.txt
+gemrb/core/Interface.cpp
+macsourceports_universal2.sh
+platforms/apple/gemrb.entitlements
+```
+
+Some of the changes are around the tortured path to make it a Universal 2 app. In hindsight maybe this wasn't worth it, on next build I might revert all that and do hardware-specific builds for Intel and Apple Silicon. 

@@ -41,3 +41,11 @@ I forked `augustus` and then later realized that I couldn't fork `julius` becaus
 Therefore in the case of `julius`, I'm just cloning the original repo and only adding the `macsourceports_universal2.sh` file to it. The only difference is the names used in the scripts. 
 
 Other than this fork nonsense the two ports are straightforward. 
+
+### MSP Fork differences:
+```
+macsourceports_universal2.sh
+res/julius.icns
+```
+
+This is the one that we only clone but the only changes are the icons and the build script

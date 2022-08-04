@@ -53,3 +53,11 @@ For this partocilar source port, error messages about `PNG_ARM_NEON_FILE` or `pn
 ```
 
 Also for some reason the `googletest` thing doesn't allow the unit test targets for `x86_64` to build, but that's not required to work to make a functioning Universal 2 build. 
+
+### MSP Fork differences:
+```
+macsourceports_universal2.sh
+CMakeLists.txt
+```
+
+`CMakeLists.txt` changes may be unneccessary now

@@ -29,3 +29,14 @@ Looks for data in `~/Library/Application Support/dhewm3/`
 
 ### Notes:
 Similar deal to yquake2 - mostly straighforward Makefile, manual need to reference `openal-soft`, and manual `lipo` on `.dylib` files. 
+
+### MSP Fork differences:
+```
+.gitignore
+doom3.icns
+macsourceports_universal2.sh
+CMakeLists.txt
+neo/framework/Common.cpp
+```
+
+`neo/framework/Common.cpp` changes appear to be to enable the finding of the `.dylib` files int the bundle itself. I should discuss it with @Doomed_Daniel about doing a PR for it. 

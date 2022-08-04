@@ -46,3 +46,11 @@ Above I have listed the two sets of commands. You'll need to run the `brew` comm
 Also this is the first and (as of this writing) only app I've done parallel apps for. Similar to [GemRB](GemRB.md), LuaRocks uses `.so` files for macOS and since I don't have visibility or insight into the part of LuaRocks that maintains that I just decided to leave it be and have two apps instead of one Universal one. If I ever figure out how to overcome that I'll address it but the GemRB experience left me thinking this wasn't worth the effort. 
 
 Also there was some weird stuff happening in the main/master branch so I'm building off of the `release/v0.66` branch.
+
+### MSP Fork differences:
+```
+CorsixTH.entitlements
+macsourceports_arm64.sh
+macsourceports_x86_64.sh
+scripts/macos_luarocks
+```

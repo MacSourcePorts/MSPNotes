@@ -33,3 +33,16 @@ This project has a rudimentary Makefile and supports macOS in the respect that t
 As this is one of the first ports MSP did, there are modifications to the Makefile which in the future would be avoided. 
 
 There are also unresolved issues with this port on earlier versions of macOS.
+
+### MSP Fork differences:
+```
+.gitignore
+macsourceports_universal2.sh
+Misc/quake.icns
+Misc/vkQuake.icns
+Quake/Makefile
+Quake/build_macos.sh
+macsourceports_universal2.sh
+```
+
+`build_macos.sh` is leftover from initial attempts, can be removed. The chnages to `Makefile` may be necessary to do a multiple arch build, not sure how to migrate that

@@ -31,3 +31,9 @@ X-COM: Terror from the Deep goes in `~/Library/Application Support/OpenXcom\TFTD
 
 ### Notes:
 Yes this one needs SDL1 stuff. Yes SDL1 exists on Homebrew for Apple Silicon. Yes, Homebrew will now constantly remind you SDL1 is deprecated. 
+
+### MSP Fork differences:
+```
+.gitignore
+macsourceports_universal2.sh
+```

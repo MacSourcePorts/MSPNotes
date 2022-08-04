@@ -40,3 +40,17 @@ So,
 - `OpenJO-SP.app`: plays *Jedi Knight II: Jedi Outcast* single player
 - `OpenJK-SP.app`: plays *Jedi Knight: Jedi Academy* single player
 - `OpenJK-MP.app`: plays *Jedi Knight: Jedi Academy* multiplayer
+
+### MSP Fork differences:
+```
+.gitignore
+CMakeLists.txt
+code/client/cl_cgame.cpp
+code/client/vmachine.cpp
+code/client/vmachine.h
+codeJK2/game/bg_pmove.cpp (formatting change only, nonessential)
+macsourceports_universal2.sh
+shared/qcommon/q_platform.h
+```
+
+This is another id Tech 3 project that needs the specific changes to be Apple Silicon. I should do a PR with the main project. 

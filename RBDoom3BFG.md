@@ -29,3 +29,13 @@ Looks in `~/Library/Application Support/RBDOOM-3-BFG/` for data
 
 ### Notes:
 This one is simple enough
+
+### MSP Fork differences:
+```
+.gitignore
+macsourceports_universal2.sh
+neo/.DS_Store
+neo/CMakeLists.txt
+neo/doom3bfg.icns
+```
+Not sure if the CMakeLists changes are required. Some of it is debugging info.

@@ -32,3 +32,14 @@ Asks for data location on first run
 So this one requires both the `brew` items and some Python plugins via the `pip3` command. 
 
 Also I just tried it on my new M1 Max MBP and the mouse look is broken or something. Not what I experienced on my M1 mini. I'll update later and see if it still happens. 
+
+### MSP Fork differences:
+```
+.gitignore
+combine_macos_appbundles.sh
+distpkg_macos.sh
+macsourceports_universal2.sh
+packaging/macos/Contents/Info.plist
+```
+
+This one does a lot of the work for packaging so I should either do a PR or maintain it as a fork. 

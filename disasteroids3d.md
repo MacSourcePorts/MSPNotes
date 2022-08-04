@@ -29,3 +29,13 @@ Comes with data, full game
 
 ### Notes:
 Easiest/quickest port to build hands down.
+
+### MSP Fork differences:
+```
+.gitignore
+Makefile
+disasteroids3d.icns
+macsourceports_universal2.sh
+```
+
+This is the rare fork we can continue to maintain in light of the new process since we control the base game. 

@@ -31,3 +31,14 @@ Game is free/public domain, can be built to be full game. Data can be found on t
 Once the libraries are in place it's easy enough... except this one decided to do its own proprietary build system. For now it can't be 100% automated because you have to select what to build. 
 
 When running, pick "1" to choose what kind of build, then choose "1" again to pick a release build, then hit "enter" when you get back to the first list of options to proceed. You will need to do this a second time for the other architecture. It's a pain, but I think this project predated a number of best practices. 
+
+### MSP Fork differences:
+```
+.gitignore
+build/unix/config_proginfo_build
+macsourceports_universal2.sh
+src/libs/mikmod/mikmod.h
+src/libs/mikmod/mikmod_internals.h
+```
+
+Thia one is a good candidate to remain a fork because it rarely updates and it isn't on GitHub.

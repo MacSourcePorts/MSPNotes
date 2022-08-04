@@ -33,3 +33,9 @@ Note that those folder have spaces in the names
 
 ### Notes:
 This one's not a big deal other than it uses a build system I've not seen before or since (`scons`). It also builds two different apps for the two different games, `D1X-Rebirth` and `D2X-Rebirth`.
+
+### MSP Fork differences:
+```
+.gitignore
+macsourceports_universal2.sh
+```
