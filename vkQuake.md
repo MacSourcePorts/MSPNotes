@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/vkQuake
 ### Why is Mac Source Ports doing a build of this port?
 The port did not offer Mac builds at all.
 
+### Versioning/Release strategy:
+Numbered release versions
+
 ### Build System: 
 Make
 

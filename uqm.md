@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/uqm
 ### Why is Mac Source Ports doing a build of this port?
 The port did not offer Mac builds at all.
 
+### Versioning/Release strategy:
+Version numbers but very infrequent releases (latest version, 0.8, was first one in a decade)
+
 ### Build System: 
 Proprietary
 

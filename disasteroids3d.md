@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/disasteroids3d
 ### Why is Mac Source Ports doing a build of this port?
 This one is more or less my bidding and just for kicks since I have it on the App Store too.
 
+### Versioning/Release strategy:
+None, just the latest version/code (updates are infrequent)
+
 ### Build System: 
 Make
 

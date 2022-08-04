@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/OpenJK
 ### Why is Mac Source Ports doing a build of this port?
 This port, or its users at least, requested it. 
 
+### Versioning/Release strategy:
+None. Latest code only.
+
 ### Build System: 
 Cmake
 

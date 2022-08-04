@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/jk2mv / https://github.com/MacSour
 ### Why is Mac Source Ports doing a build of this port?
 This port (or at least users of it) requested it. 
 
+### Versioning/Release strategy:
+Numbered release versions (but the latest one is old)
+
 ### Build System: 
 Cmake
 

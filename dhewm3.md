@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/dhewm3
 ### Why is Mac Source Ports doing a build of this port?
 This project actually prefers we do the build as the main dev does not own a Mac
 
+### Versioning/Release strategy:
+Numbered release versions
+
 ### Build System: 
 Cmake
 

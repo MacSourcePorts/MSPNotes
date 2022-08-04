@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/yquake2
 ### Why is Mac Source Ports doing a build of this port?
 The port did not offer Mac builds at all.
 
+### Versioning/Release strategy:
+Tags only, but version numbers for names.
+
 ### Build System: 
 Make
 
@@ -39,3 +42,5 @@ macsourceports_universal2.sh
 build_macos.sh
 stuff/quake2.icns
 ```
+
+`build_macos.sh` is leftover from initial attempts, can be removed

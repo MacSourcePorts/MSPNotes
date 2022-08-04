@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/OpenXcom
 ### Why is Mac Source Ports doing a build of this port?
 The port did not offer Mac builds at all.
 
+### Versioning/Release strategy:
+Version tags only, but the latest one is really old (2014)
+
 ### Build System: 
 Cmake
 

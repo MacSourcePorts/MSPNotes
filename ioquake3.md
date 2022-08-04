@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/ioq3
 ### Why is Mac Source Ports doing a build of this port?
 This is the one that basically started the project (MSP)
 
+### Versioning/Release strategy:
+None. Latest code only. 
+
 ### Build System: 
 Make
 

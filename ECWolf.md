@@ -13,6 +13,9 @@ MSP GitHub: https://bitbucket.org/macsourceports/ecwolf/ / https://github.com/Ma
 ### Why is Mac Source Ports doing a build of this port?
 This port does make signed and notarized releases but not of Apple Silicon. Though they do still build for PowerPC which is neat. 
 
+### Versioning/Release strategy:
+None. Last official Mac build was in 2012.
+
 ### Build System: 
 Cmake
 

@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/systemshock
 ### Why is Mac Source Ports doing a build of this port?
 This port didn't offer a Mac app bundle.
 
+### Versioning/Release strategy:
+Numbered release versions but the most recent one is pretty old (2019)
+
 ### Build System: 
 Cmake
 

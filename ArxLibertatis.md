@@ -10,6 +10,12 @@ GitHub: https://github.com/arx/ArxLibertatis
 MSP GitHub: https://github.com/MacSourcePorts/ArxLibertatis
 
 #
+### Why is Mac Source Ports doing a build of this port?
+The port does not release Mac builds
+
+### Versioning/Release strategy:
+Numbered release versions
+
 ### Build System: 
 Cmake
 

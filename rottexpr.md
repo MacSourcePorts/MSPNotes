@@ -13,6 +13,9 @@ MSP GitHub: https://github.com/MacSourcePorts/rottexpr
 ### Why is Mac Source Ports doing a build of this port?
 The port did not offer Mac builds at all.
 
+### Versioning/Release strategy:
+There's a couple of "releases" but it doesn't look formal. 
+
 ### Build System: 
 Make
 

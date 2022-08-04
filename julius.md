@@ -13,6 +13,9 @@ MSP GitHub: n/a
 ### Why is Mac Source Ports doing a build of this port?
 The port does make a Mac build but it's Intel-only and unsigned
 
+### Versioning/Release strategy:
+Numbered release versions
+
 ### Build System: 
 Cmake
 
