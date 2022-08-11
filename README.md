@@ -66,3 +66,13 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [*Unreal Tournament*](https://www.oldunreal.com/) [no source]
 * Fallout 2 CE [[github](https://github.com/alexbatalov/fallout2-ce)] (*Fallout 2*)
 * [Exult](http://exult.sourceforge.net/) [[github](http://prdownloads.sourceforge.net/exult/exult-1.8.tar.gz)] (*Ultima VII*, *Ultima VII Part Two*)
+
+## Warnings
+GemRB: as of 8/10/2022, the CMake files for GemRB in the master branch were modifying the identifier of my SDL2 libraries. The issue was that they were being changed to `@loader_path/../Frameworks/libSDL2.dylib` and this causes dylibbundler to get stuck. 
+
+If this happens in the future the following commands can fix it
+
+```
+install_name_tool -id /usr/local/lib/libSDL2.dylib /usr/local/lib/libSDL2.dylib
+install_name_tool -id /opt/homebrew/lib/libSDL2.dylib /opt/homebrew/lib/libSDL2.dylib
+```
