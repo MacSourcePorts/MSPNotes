@@ -41,4 +41,6 @@ neo/.DS_Store
 neo/CMakeLists.txt
 neo/doom3bfg.icns
 ```
-Not sure if the CMakeLists changes are required. Some of it is debugging info.
+~~Not sure if the CMakeLists changes are required. Some of it is debugging info.~~
+
+I was able to switch to just using the project's repo in the build system by specifying `-DCMAKE_PREFIX_PATH=/usr/local`. It also allows me to just use the arm64 `cmake` instead of the x86_64 one.
