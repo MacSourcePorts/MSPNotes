@@ -3,7 +3,7 @@
 
 Game(s): *Star Control II: The Ur-Quan Masters*
 
-Homepage: http://www.homepage.com
+Homepage: http://sc2.sourceforge.net
 
 GitHub: http://sc2.sourceforge.net/downloads.php
 
