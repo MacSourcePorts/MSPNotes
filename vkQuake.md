@@ -17,7 +17,7 @@ The port did not offer Mac builds at all.
 Numbered release versions
 
 ### Build System: 
-Make
+Meson
 
 ### Language(s):
 C/C++
@@ -49,3 +49,5 @@ macsourceports_universal2.sh
 ```
 
 `build_macos.sh` is leftover from initial attempts, can be removed. The chnages to `Makefile` may be necessary to do a multiple arch build, not sure how to migrate that
+
+UPDATE: The project has moved to a new build system called Meson which means the MSP fork is no longer necessary. This should help us update more often. 
