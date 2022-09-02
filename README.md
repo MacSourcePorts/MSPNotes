@@ -16,6 +16,7 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [ECWolf](ECWolf.md) (*Wolfenstein 3-D*, *Spear of Destiny*)
 * [EDuke32](EDuke32.md) (*Ion Fury*)
 * [fallout2-ce (NO LONGER BUILT)](fallout2-ce.md) (*Fallout 2*)
+* [fheroes2](fheroes2.md) (*Heroes of Might and Magic II*)
 * [GemRB](GemRB.md) (*Baldur's Gate*, *Baldur's Gate II*, *Icewind Dale*)
 * [ioquake3](ioquake3.md) (*Quake III: Arena*)
 * [iortcw](iortcw.md) (*Return to Castle Wolfenstein*)
