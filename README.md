@@ -8,6 +8,7 @@ This is a repo of notes related to the various projects built by Mac Source Port
 ## Port notes
 * [ArxLibertatis](ArxLibertatis.md) (*Arx Fatalis*)
 * [augustus](augustus.md) (*Caesar III*)
+* [bstone](bstone.md) (*Blake Stone: Aliens of Gold*, *Blake Stone: Planet Strike*)
 * [CorsixTH](CorsixTH.md) (*Theme Hospital*)
 * [DevilutionX](DevilutionX.md) (*Diablo*)
 * [dhewm3](dhewm3.md) (*DOOM 3*)
