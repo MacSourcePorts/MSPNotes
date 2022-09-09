@@ -6,6 +6,7 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [Setting up development system](setup.md)
 
 ## Port notes
+* [Abuse_1996](Abuse_1996.md) (*Abuse*)
 * [ArxLibertatis](ArxLibertatis.md) (*Arx Fatalis*)
 * [augustus](augustus.md) (*Caesar III*)
 * [bstone](bstone.md) (*Blake Stone: Aliens of Gold*, *Blake Stone: Planet Strike*)
