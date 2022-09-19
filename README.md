@@ -17,7 +17,6 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [DXX-Rebirth](DXX-Rebirth.md) (*Descent*, *Descent II*)
 * [ECWolf](ECWolf.md) (*Wolfenstein 3-D*, *Spear of Destiny*)
 * [EDuke32](EDuke32.md) (*Ion Fury*)
-* [fallout2-ce (NO LONGER BUILT)](fallout2-ce.md) (*Fallout 2*)
 * [fheroes2](fheroes2.md) (*Heroes of Might and Magic II*)
 * [GemRB](GemRB.md) (*Baldur's Gate*, *Baldur's Gate II*, *Icewind Dale*)
 * [ioquake3](ioquake3.md) (*Quake III: Arena*)
@@ -35,6 +34,7 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [Serious-Engine (INCOMPLETE)](Serious-Engine.md) (*Serious Sam: The First Encounter*, *Serious Sam: The Second Encounter*)
 * [rottexpr](rottexpr.md) (*Rise of the Triad*)
 * [shockolate](shockolate.md) (*System Shock*)
+* [uHexen2](uHexen2.md) (*Hexen II*)
 * [The Ur-Quan Masters](uqm.md) (*Star Control II*)
 * [vkQuake](vkQuake.md) (*Quake*)
 * [yquake2](yquake2.md) (*Quake II*)
@@ -69,6 +69,13 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [*Unreal Tournament*](https://www.oldunreal.com/) [no source]
 * Fallout 2 CE [[github](https://github.com/alexbatalov/fallout2-ce)] (*Fallout 2*)
 * [Exult](http://exult.sourceforge.net/) [[github](http://prdownloads.sourceforge.net/exult/exult-1.8.tar.gz)] (*Ultima VII*, *Ultima VII Part Two*)
+* [vcmi](https://vcmi.eu) [[github](https://github.com/vcmi/vcmi)] (*Heroes of Might and Magic III*)
+* [OpenMW](https://openmw.org/)[[gitlab](https://gitlab.com/OpenMW/openmw)] (*The Elder Scrolls III: Morrowind*)
+
+## Ports we're not currenly building
+* [fallout2-ce](fallout2-ce.md) (the project now makes its own builds)
+* [vcmi](vcmi.md) (project now makes is own ad hoc signed builds)
+
 
 ## Warnings
 GemRB: as of 8/10/2022, the CMake files for GemRB in the master branch were modifying the identifier of my SDL2 libraries. The issue was that they were being changed to `@loader_path/../Frameworks/libSDL2.dylib` and this causes dylibbundler to get stuck. 
