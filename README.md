@@ -19,6 +19,7 @@ This is a repo of notes related to the various projects built by Mac Source Port
 * [EDuke32](EDuke32.md) (*Ion Fury*)
 * [fheroes2](fheroes2.md) (*Heroes of Might and Magic II*)
 * [GemRB](GemRB.md) (*Baldur's Gate*, *Baldur's Gate II*, *Icewind Dale*)
+* [Good-Robot](Good-Robot.md) (*Good Robot*)
 * [ioquake3](ioquake3.md) (*Quake III: Arena*)
 * [iortcw](iortcw.md) (*Return to Castle Wolfenstein*)
 * [jk2mv](jk2mv.md) (*Jedi Knight II: Jedi Outcast* multiplayer)
